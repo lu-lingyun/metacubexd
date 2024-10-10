@@ -1,5 +1,32 @@
 # Changelog
 
+## [1.153.1](https://github.com/MetaCubeX/metacubexd/compare/v1.153.0...v1.153.1) (2024-10-10)
+
+
+### Bug Fixes
+
+* **rules:** text spacing of `updated at` ([342119e](https://github.com/MetaCubeX/metacubexd/commit/342119e01e5a4fe02ca6cb68902d08d52f36c486))
+
+## [1.153.0](https://github.com/MetaCubeX/metacubexd/compare/v1.152.0...v1.153.0) (2024-10-10)
+
+
+### Features
+
+* **proxies:** overhaul the look of proxies page, drop renderInTwoColumns support ([698362f](https://github.com/MetaCubeX/metacubexd/commit/698362f1c7b31837ac60bdfde7aac1deccb2ea35))
+
+
+### Bug Fixes
+
+* **proxies:** double specialType if statement ([0c004be](https://github.com/MetaCubeX/metacubexd/commit/0c004be98f062f79806a4ef95949f380d17571e1))
+* **proxies:** prevent proxyName from overflowing ([4037597](https://github.com/MetaCubeX/metacubexd/commit/40375979b8d1328ba3dde5e0a61d24271dfd4b3e))
+
+## [1.152.0](https://github.com/MetaCubeX/metacubexd/compare/v1.151.0...v1.152.0) (2024-10-09)
+
+
+### Features
+
+* show current page title, closes [#474](https://github.com/MetaCubeX/metacubexd/issues/474) ([9c76d7f](https://github.com/MetaCubeX/metacubexd/commit/9c76d7ff76886495208809d3e0f2efc6e90de2f3))
+
 ## [1.151.0](https://github.com/MetaCubeX/metacubexd/compare/v1.150.0...v1.151.0) (2024-10-01)
 
 
